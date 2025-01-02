@@ -148,10 +148,10 @@ a:hover {
 
 section {
     padding-top: 4vh;
-    height: 60vh;
-    margin: 0 20rem;
+    height: 96vh;
     box-sizing: border-box;
     min-height: fit-content;
+    margin: 0px 10rem;
 }
 
 .section-container {
@@ -303,8 +303,7 @@ section {
 
 .section-container {
     gap: 4rem;
-    height: 70%;
-    margin-bottom: 0;
+    height: 80%;
 }
 
 .section__pic-container {
