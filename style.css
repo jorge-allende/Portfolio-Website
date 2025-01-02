@@ -148,8 +148,8 @@ a:hover {
 
 section {
     padding-top: 4vh;
-    height: 96vh;
-    margin: 0 10rem;
+    height: 60vh;
+    margin: 0 20rem;
     box-sizing: border-box;
     min-height: fit-content;
 }
@@ -165,7 +165,7 @@ section {
     justify-content: center;
     align-items: center;
     gap: 5rem;
-    height: 80vh;
+    height: 72vh;
 }
 
 .section__pic-container {
@@ -303,7 +303,8 @@ section {
 
 .section-container {
     gap: 4rem;
-    height: 80%;
+    height: 70%;
+    margin-bottom: 0;
 }
 
 .section__pic-container {
@@ -321,7 +322,7 @@ section {
 .experience-sub-title {
     color: rgb(85, 85, 85);
     font-weight: 600;
-    font-size: 1.75rem;
+    font-size: 1.35rem;
     margin-bottom: 2rem;
 }
 
@@ -355,6 +356,11 @@ article .icon {
 
 #projects {
     position: relative;
+    padding: 4rem 2rem;
+}
+
+#projects .section-container {
+    margin-bottom: auto;
 }
 
 .color-container {
@@ -364,7 +370,7 @@ article .icon {
 
 .project-img {
     border-radius: 2rem;
-    width: 90%;
+    width: 70%;
     height: 90%;
 }
 
@@ -383,7 +389,7 @@ article .icon {
 #contact {
     display: flex;
     flex-direction: column;
-    height: 70vh;
+    height: 28vh;
     padding-top: 2rem;
 }
 
